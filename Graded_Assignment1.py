@@ -5,6 +5,6 @@ c=645.00 * int(input())
 Rate=0.12
 Delivery_Charges=250.00
 s=a+b+c
-s1=s*rate
+s1=s*Rate
 s2=s+s1+Delivery_Charges
 print(s2)
